@@ -13,6 +13,8 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Dashboard.css -->
+    <link href="css/bootstrap-dashboard.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -52,7 +54,6 @@
                 <h2>Heading</h2>
                 <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
                 <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-                <form
             </div>
             <div class="col-md-8">
                 <h2>Heading</h2>
@@ -79,8 +80,6 @@
                 <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div>
         </div>
-
-        <hr>
 
         <footer>
             <p>&copy; 2016 Company, Inc.</p>
